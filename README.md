@@ -71,5 +71,6 @@ Icons: Lucide React.
 
 Styling: TailwindCSS.
 
-Visit https://ticketing-app-react.netlify.app/  to view the app.
+Visit https://ticketing-app-react.netlify.app/  to view the react app.
+Visit https://ticketing-app-vue.netlify.app/  to view the vue app.
 ```
